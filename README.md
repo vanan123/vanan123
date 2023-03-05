@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, My fullname is NGUYEN VAN AN! Nice to meet you.
 
-<!--
-**vanan123/vanan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm from Quy Nhon City, Binh Dinh province 💗💗💗 and living in Da Nang city 🐉. I want to become a Backend Developer. 
 
-Here are some ideas to get you started:
+I am currently a final year student at <img src="https://github.com/vanan123/vanan123/blob/main/images.png" alt="VKU Logo" height="20"/> Vietnam - Korea University of Information and Communication Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📖 I'm currently learning:
+
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="32" height="32"/> | <img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="32" height="32"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svgg" alt="Css" width="32" height="32"/> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="32" height="32"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" width="32" height="32"/>  | <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="Mysql" width="32" height="32"/> |  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="32" height="32"/> | 
+
+---
+
+### 📞📞📞 If you want to contact with me:
+ • [<img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" alt="facebook" width="20" height="20" /> Nguyễn Văn An](https://www.facebook.com/nvan.cui) 
+ 
+ • 📱📱📱 Mobile: 0906554075
+ 
+ • <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt = "gmail" width="20" height="20"/> nguyenvanan9a4@gmail.com
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanan123&layout=compact&hide=html,css&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanan123&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
