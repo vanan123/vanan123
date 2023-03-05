@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, My fullname is NGUYEN VAN AN! Nice to meet you.
 
 ---
-I'm from Quy Nhon City 🌊🌊🌊 , Binh Dinh province 💗💗💗 and living in Da Nang city 🐉🐉🐉. I want to become a Backend Developer <img src = "https://cdn-icons-png.flaticon.com/512/2335/2335331.png" alt="backend" width="20" height="20"/> . 
+I'm from Quy Nhon City 🌊🌊🌊 , Binh Dinh province 💗💗💗 and living in Da Nang city 🐉🐉🐉. I want to become a Backend Developer .
 
 I am currently a final year student at <img src="https://github.com/vanan123/vanan123/blob/main/images.png" alt="VKU Logo" height="20"/> Vietnam - Korea University of Information and Communication Technology.
 
