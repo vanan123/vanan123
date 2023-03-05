@@ -9,7 +9,7 @@ I am currently a final year student at <img src="https://github.com/vanan123/van
 
 📖 I'm currently learning:
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="32" height="32"/>   <img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="Mysql" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="32" height="32"/>  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="32" height="32"/>  
+<img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" width="32" height="32"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="Mysql" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="32" height="32"/>  
 
 ---
 
