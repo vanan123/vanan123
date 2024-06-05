@@ -3,13 +3,11 @@
 ---
 I'm from Quy Nhon City 🌊🌊🌊 , Binh Dinh province 💗💗💗 and living in Da Nang city 🐉🐉🐉. I want to become a Backend Developer .
 
-I am currently a final year student at <img src="https://github.com/vanan123/vanan123/blob/main/images.png" alt="VKU Logo" height="20"/> Vietnam - Korea University of Information and Communication Technology.
-
 ---
 
 📖 I'm currently learning:
 
-<img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" width="32" height="32"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="Mysql" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="32" height="32"/>  
+<img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" width="32" height="32"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="32" height="32"/>   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="Mysql" width="32" height="32"/>    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="32" height="32"/>  ![selenium-logo-B1A948FA0F-seeklogo com](https://github.com/vanan123/vanan123/assets/65391239/4758b947-56b3-434f-8fee-601a1be52b5b)
 
 ---
 
